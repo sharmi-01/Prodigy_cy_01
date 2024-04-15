@@ -1,4 +1,4 @@
-readme_content = """
+
 # Caesar Cipher
 
 This Python program implements the Caesar Cipher algorithm for both encryption and decryption.
